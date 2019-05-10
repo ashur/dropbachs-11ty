@@ -1,0 +1,12 @@
+{
+  "name": "dropbachs-11ty",
+  "version": "0.1.0",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve",
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@11ty/eleventy": "^0.8.3"
+  }
+}
